@@ -33,6 +33,6 @@ window.addEventListener("load", function() {
        let imageUrl = planet.image;
        let moons = planet.moons;
        addDestinationInfo(document, name, diameter, star, distance, moons, imageUrl);
-    }) 
-    
+    });
+
 });
